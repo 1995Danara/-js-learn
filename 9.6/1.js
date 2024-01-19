@@ -8,4 +8,4 @@ let a = new A();
 alert( a instanceof B ); // true
 
 
-// instanceof проверяет прототип
+// instanceof проверяет прототип, не учитывая функцию
